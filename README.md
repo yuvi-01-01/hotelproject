@@ -7,9 +7,13 @@ The Hotel Management System is a web-based application developed in PHP and MySQ
 Table of Contents
 
 1.Features
+
 2.Requirements
+
 3.Installation
+
 4.Configuration
+
 5.Usage
 
 Features
