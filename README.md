@@ -16,6 +16,8 @@ Table of Contents
 
 5.Usage
 
+6.Database schema
+
 Features
 
 Customer Registration: Allows customers to register with their personal information.
