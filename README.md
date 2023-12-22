@@ -48,4 +48,5 @@ Explore available features such as room bookings, facilities, and reviews.
 Utilize the administration panel for managing customer data and hotel details.
 
 Database Schema
+
 The database schema is defined in database.sql. Refer to this file for the structure of the MySQL database.
