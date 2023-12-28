@@ -39,7 +39,6 @@ Installation
 
 Clone the repository: git clone https://github.com/nehalmahajan26/hotelproject.git
 Move the project files to your web server directory.
-Import the SQL file (database.sql) into your MySQL database.
 
 Configuration
 
