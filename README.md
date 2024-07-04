@@ -37,7 +37,7 @@ The Hotel Management System is a web-based application developed in PHP and MySQ
 
 ## Installation
 
-Clone the repository: git clone https://github.com/nehalmahajan26/hotelproject.git
+Clone the repository: git clone https://github.com/yuvi-01-01/hotelproject.git
 Move the project files to your web server directory.
 
 ## Configuration
